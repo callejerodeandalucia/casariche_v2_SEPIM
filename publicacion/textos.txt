@@ -1,11 +1,22 @@
 Título (30)
 ===========
 
+Guía de Casariche
+
 Descripción breve (80)
 ======================
 
+En esta guía encontrarás toda la información de interés para visitar Casariche.
+
 Descripción completa (4000)
 ===========================
+
+Esta guía de Casariche te será muy útil para moverte por sus calles, localizar lugares de interés, bares, restaurantes, o incluso conocer dónde se celebran sus principales fiestas y tradiciones.
+Casariche se encuentra en el centro de Andalucía, al sureste de la provincia de Sevilla, y pertenece a la comarca de la Sierra Sur de Sevilla. Destaca especialmente por su legado arqueológico y su pasado romano.
+Las canteras romanas del Cerro Bellido representan la gran huella que antiguas civilizaciones como la romana dejaron en el territorio y el hallazgo en sus tierras de su famoso mosaico que representa la conocida escena de la mitología romana “El Juicio de Paris” es el orgullo del municipio.
+Casariche se asienta sobre Ventippo, una antigua ciudad fundada por los celtas varios siglos antes de cristo, que incluso tenía su propia moneda.
+El callejero te permitirá localizar cada lugar de interés, bar o restaurante donde poder degustar los ricos productos típicos de la localidad.
+Casariche ofrece al visitante multitud de posibilidades para disfrutar con los cinco sentidos de la antigua ciudad de Ventippo.
 
 Etiquetas	
 ===========
@@ -22,3 +33,5 @@ Sitio web
 Correo electrónico
 ==================
 
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
